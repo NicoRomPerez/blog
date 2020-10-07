@@ -3,7 +3,7 @@ body{
 }
 
 b{
-	color: red;
+	color: #026fff;
 }
 
 .titulo,h1{
@@ -112,12 +112,11 @@ section{
 
 
 .col-md-6{ 
-	border: solid 1px gray;
-	background-color: gray
+	background-color: white;
 }
 
 .Portafolio-details a h2, .Portafolio-details a p {
-	color: #98E6FE;
+	color: #026fff;
 }
 
 .descripcion h3{
