@@ -3,3 +3,4 @@
  -Mejorar la pagina
  -agregar interaccion
  -terminar el contacto
+-probando si al hacer un cambio me permite conectar este repo al  githubpages
